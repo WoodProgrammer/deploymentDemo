@@ -16,6 +16,3 @@ spec:
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 5000
-          env:
-            - name: PG_HOST
-              value: "postgres-master.default"
