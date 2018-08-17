@@ -5,3 +5,4 @@ Goals :
 	* ConfigMaps
 	* Ingress
 	* Nginx Annotations
+	* Egress
