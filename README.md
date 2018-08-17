@@ -6,3 +6,4 @@ Goals :
 	* Ingress
 	* Nginx Annotations
 	* Egress
+	* Deployment
